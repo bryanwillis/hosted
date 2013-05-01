@@ -1,3 +1,7 @@
+
+
+(function ($) {
+
 /* ----------------------------------->>>>>>>>> MENU <<<<<<<<<<<-----------------------------------*/
 
 /* -------------------------- TOGGLE THE MENUS ON MOBILE/TABLETS UNDER 979PX (BOOTSTRAP'S SIZING) ------------------------*/
@@ -410,3 +414,8 @@ if (document.documentElement.clientWidth > 979) {
 
 
 } /* end bootstrap dropdown */
+
+
+
+})(jQuery);
+
