@@ -1,3 +1,9 @@
+(function ($) {
+
+
+
+
+
 /*================================================================*/
 /* Remove Mobile Address Bar on iPhone and Android Devices
 /*================================================================*/
@@ -334,5 +340,12 @@ $(document).ready(function () {
 	$('.titletip, ul.social li a').tooltip({});
 	$(".detailsPop").popover({
 		trigger: 'hover'
+
 	});
 });
+
+
+
+
+
+})(jQuery);

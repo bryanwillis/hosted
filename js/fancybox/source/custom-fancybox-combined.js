@@ -1,3 +1,9 @@
+
+(function ($) {
+
+
+
+
 ///--- unpacked versions of all are in this folder ---- //
 
 /*! fancyBox v2.1.4 fancyapps.com | fancyapps.com/fancybox/#license */
@@ -653,3 +659,9 @@ $(".fancytitle").fancybox({
  
 
  }); //document ready
+
+
+
+
+
+})(jQuery);
